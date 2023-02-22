@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salomon
 - 👀 I am interested mostly in Plasma physics with fusion applications - Quantum physics - Astrophysics
-- 🌱 Currently finishing my msc in theoretical physics at EPFL
+- 🌱 Currently finishing my msc in theoretical physics at the Princeton Plasma Physics Laboratory (PPPL)
 - 📫 salomon.guinchard@epfl.ch
 
 <!---
