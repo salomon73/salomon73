@@ -2,7 +2,7 @@
 - 👀 I am interested mostly in Plasma physics with fusion applications - Quantum physics - Astrophysics
 - 🌱 Got my masters degree in Theoretical physics from EPFL and completed my thesis at the PPPL.
 - 📫 salomon.guinchard99@gmail.com
-- 🌐︎ [MyWebpage](https://salomon73.github.io)
+- 🌐︎ [My webpage](https://salomon73.github.io)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=salomon73&theme=onedark)](https://github.com/salomon73/github-profile-trophy)
 <!---
