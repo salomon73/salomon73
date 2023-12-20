@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salomon
-- 👀 I am interested mostly in Plasma physics with fusion applications - Quantum physics - Astrophysics
+- 👀 I am mostly interested in Plasma physics with fusion applications - Quantum physics - Astrophysics
 - 🌱 Got my masters degree in Theoretical physics from EPFL and completed my thesis at the PPPL.
 - 📫 salomon.guinchard99@gmail.com
 - 🌐︎ [My webpage](https://salomon73.github.io)
