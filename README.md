@@ -4,6 +4,11 @@
 - 📫 salomon.guinchard99@gmail.com
 - 🌐︎ [My webpage](https://salomon73.github.io)
 
+
+<p float="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salomon73&theme=transparent" />
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=salomon73&theme=onedark)](https://github.com/salomon73/github-profile-trophy)
 <!---
 salomon73/salomon73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
