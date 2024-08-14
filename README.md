@@ -5,8 +5,9 @@
 - 🌐︎ [My webpage](https://salomon73.github.io)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=salomon73&theme=onedark)](https://github.com/salomon73/github-profile-trophy)
+
 <!---
+[![trophy](https://github-profile-trophy.vercel.app/?username=salomon73&theme=onedark)](https://github.com/salomon73/github-profile-trophy)
 salomon73/salomon73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
